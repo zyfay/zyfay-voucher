@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "Zyfay Voucher",
+    "slug": "zyfay-topup-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#1A0E33"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": { "supportsTablet": true },
+    "android": { "package": "com.zyfay.topupapp" },
+    "web": { "bundler": "metro" }
+  }
+}
