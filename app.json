@@ -2,6 +2,7 @@
   "expo": {
     "name": "Zyfay Voucher",
     "slug": "zyfay-topup-app",
+    "owner": "zyfay-voucher",
     "version": "1.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "light",
